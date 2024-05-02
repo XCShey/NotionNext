@@ -15,11 +15,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_1: '寄术玩家',
+  HEO_HERO_TITLE_2: '也是科技能手',
+  HEO_HERO_TITLE_3: '双重身份',
+  HEO_HERO_TITLE_4: 'TheBXCShey.top',
+  HEO_HERO_TITLE_5: '点此进入我的主页',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
