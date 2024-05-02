@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '🎉欢迎来到小车神hey的博客🎉（B站）', url: 'https://b23.tv/YaCS8uN' },
-    { title: '🎉Welcome to XCShey blog🎉（YouTube）'， url: 'https://youtube.com/@hey-XCR?si=vCH4LAk8_pt1HyfI' }
+    { title: '🎉欢迎来到小车神hey的博客🎉（B站）',url: 'https://b23.tv/YaCS8uN' },
+    { title: '🎉Welcome to XCShey blog🎉（YouTube）',url: 'https://youtube.com/@hey-XCR?si=vCH4LAk8_pt1HyfI' }
   ],
 
   // 英雄区左右侧组件颠倒位置
