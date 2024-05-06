@@ -25,8 +25,8 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '小车神XCShey', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '来了老弟！我是小车神hey', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://tangly1024.com', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'XCShey, 小车神', // 网站关键词 英文逗号隔开
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://thebxcshey.top', // 网站地址
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'XCShey, 博客', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'BXCShey@outlook.com', // 邮箱地址 例如mail@tangly1024.com
@@ -215,7 +215,7 @@ const BLOG = {
   POST_PREVIEW_LINES: process.env.NEXT_PUBLIC_POST_POST_PREVIEW_LINES || 12, // 预览博客行数
   POST_RECOMMEND_COUNT: process.env.NEXT_PUBLIC_POST_RECOMMEND_COUNT || 6, // 推荐文章数量
   POSTS_PER_PAGE: process.env.NEXT_PUBLIC_POST_PER_PAGE || 12, // post counts per page
-  POSTS_SORT_BY: process.env.NEXT_PUBLIC_POST_SORT_BY || 'notion', // 排序方式 'date'按时间,'notion'由notion控制
+  POSTS_SORT_BY: process.env.NEXT_PUBLIC_POST_SORT_BY || 'date', // 排序方式 'date'按时间,'notion'由notion控制
 
   POST_WAITING_TIME_FOR_404:
     process.env.NEXT_PUBLIC_POST_WAITING_TIME_FOR_404 || '8', // 文章加载超时时间，单位秒；超时后跳转到404页面
