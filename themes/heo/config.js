@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '双重身份',
   HEO_HERO_TITLE_4: 'TheBXCShey.top',
   HEO_HERO_TITLE_5: '点此进入我的主页',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://hp.thebxcshey.top',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '时光倒流', url: '/time' },
@@ -108,7 +108,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://thebxcshey.top/404',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
