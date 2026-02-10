@@ -62,8 +62,8 @@ const CONFIG = {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
       color_1: '#989bf8',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp'，
+      title_2: 'Sketch'，
+      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
       color_2: '#ffffff'
     },
     {
@@ -86,10 +86,10 @@ const CONFIG = {
       title_1: 'Swift',
       img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
       color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp'，
+      title_2: 'Principle'，
+      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
       color_2: '#8f55ba'
-    },
+    }，
     {
       title_1: 'illustrator',
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
